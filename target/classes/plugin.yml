@@ -1,0 +1,16 @@
+name: TheFrogPlugin
+version: '1.0'
+main: me.frog.crimefrog.CrimeFrog
+api-version: '1.20'
+author: Frog1810
+commands:
+  HackT1:
+    permission: crimefrog.hackt1
+    description: Gives you the hacking pad tier 1
+    usage: /HackT1
+  GetChest:
+    permission: crimefrog.getchest
+    description: Gives you the chest
+    usage: /GetChest
+  elmosong:
+    description: ELMOSONG!!!!
